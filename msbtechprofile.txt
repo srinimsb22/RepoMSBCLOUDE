@@ -1,0 +1,4 @@
+Migrate your business- and mission-critical workloads to Azure infrastructure and improve operational efficiency. Run SQL Server, SAP, Oracle® software and high-performance computing applications on Azure Virtual Machines. Choose your favorite Linux distribution or Windows Server.
+
+Deploy virtual machines featuring up to 416 vCPUs and 12 TB of memory. Get up to 3.7 million local storage IOPS per VM. Take advantage of up to 30 Gbps Ethernet and cloud’s first deployment of 200 Gbps InfiniBand. Select the underlying processors – AMD, Ampere (Arm-based), or Intel - that best meet your requirements.
+
